@@ -13,6 +13,6 @@ Plataforma para usuários que necessitam de cuidados especias.
 
 ## Equipe
 
-| [<img src="https://avatars.githubusercontent.com/nogueiraz" width="115"><br><small>@Daniel-Freitas0</small>](https://github.com/nogueiraz) | [<img src="https://avatars.githubusercontent.com/Gui-Coimbra" width="115"><br><small>@dianaaugusta</small>](https://github.com/Gui-Coimbra) | [<img src="https://avatars.githubusercontent.com/IgorRegali" width="115"><br><small>@GabrielDuarte14</small>](https://github.com/IgorRegali) 
+| [<img src="https://avatars.githubusercontent.com/nogueiraz" width="115"><br><small>@nogueiraz</small>](https://github.com/nogueiraz) | [<img src="https://avatars.githubusercontent.com/Gui-Coimbra" width="115"><br><small>@Gui-Coimbra</small>](https://github.com/Gui-Coimbra) | [<img src="https://avatars.githubusercontent.com/IgorRegali" width="115"><br><small>@IgorRegali</small>](https://github.com/IgorRegali) 
 | :---: | :---: | :---: |
-| [<img src="https://avatars.githubusercontent.com/MBCaus" width="115"><br><small>@JoaoVictorHengler</small>](https://github.com/MBCaus) | [<img src="https://avatars.githubusercontent.com/RicardoTeixeira2004" width="115"><br><small>@VictorRubinec</small>](https://github.com/RicardoTeixeira2004)
+| [<img src="https://avatars.githubusercontent.com/MBCaus" width="115"><br><small>@MBCaus</small>](https://github.com/MBCaus) | [<img src="https://avatars.githubusercontent.com/RicardoTeixeira2004" width="115"><br><small>@RicardoTeixeira2004</small>](https://github.com/RicardoTeixeira2004)
