@@ -1,7 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/PI-Grupo-8/.github/main/LogoGit.png)
 
 
-Plataforma para usuários que necessitam de cuidados especias.
+Plataforma para usuários que necessitam de cuidados especiais.
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
